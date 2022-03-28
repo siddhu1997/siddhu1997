@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=siddhu1997)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **siddhu1997/siddhu1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
